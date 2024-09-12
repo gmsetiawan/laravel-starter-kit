@@ -9,6 +9,20 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+<h1>Features</h1>
+<ul>
+<li>DevDojo</li>
+<li>Gemini AI</li>
+<ul>
+<li>Chat</li>
+<li>Auto generate content creation</li>
+</ul>
+</ul>
+
+<strong>I recommend using text editors such as <a href="https://ckeditor.com/" target="_blank">CKEditor</a>, <a href="https://www.tiny.cloud/" target="_blank">CKEditor</a>, etc.</strong>
+
+<p>Gemini is a multimodal AI model developed by Google. It is designed to perform a wide range of natural language processing tasks, including language translation, question answering, text summarization, and dialogue generation. Gemini is known for its advanced transformer-based architecture, which enables it to handle complex and context-dependent language with high accuracy and fluency.</p>
+
 ## About DevDojo
 
 DevDojo Auth is an open-source composer package that adds customizable authentication screens to your Laravel application. Just drop it in, and you're ready to go!
@@ -76,4 +90,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
 # laravel-starter-kit
